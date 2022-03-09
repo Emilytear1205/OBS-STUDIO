@@ -1,8 +1,8 @@
-## 偉大的免費錄影直播軟體-- Obs & Geo news experience
+## 偉大的免費錄影直播軟體-- OBS & Geo news experience
 
 以上是針對Screen Recorder 4的講解，Screen Recorder 4 使用操作上雖然簡單、容易上手，訊連科技也提供了各種影片教學提供給大眾學習，但它並且只有30天的免費試用期，30天過後就得付費使用。
 
-+ 那今天我再介紹另一種錄影軟體提供給大家，那就是 Obs。
++ 那今天我再介紹另一種錄影軟體提供給大家，那就是 OBS。
 
 <div align="center">
  <img src="https://github.com/Emilytear1205/OBS-STUDIO/blob/main/OBS%E7%A4%BA%E7%AF%84%E6%AA%94%E6%A1%88_page-0001.jpg" width = "1000" height = "500" alt="解說介面" align=center />
