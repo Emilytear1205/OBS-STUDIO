@@ -6,10 +6,12 @@
 + OBS
 + Geo news experience
 
+<div align="center">
 <center class ="half">
-    <img src="https://github.com/Emilytear1205/OBS-STUDIO/blob/main/OBS2.jpg" width = "300"/>
-    <img src="https://github.com/Emilytear1205/OBS-STUDIO/blob/main/NVIDIA2.jpg"width = "300"/>
+    <img src="https://github.com/Emilytear1205/OBS-STUDIO/blob/main/OBS2.jpg" width = "500"/ height = "600"/>
+    <img src="https://github.com/Emilytear1205/OBS-STUDIO/blob/main/NVIDIA2.jpg" width = "500"/ height = "600"/>
 </center>
+</div>
 
 GOOGLE搜尋就可以找到免費的載點，windows的用戶如果在安裝方面遇到問題，可以從電腦內建的微軟商店下載看看。
 [官方下載連結](https://obsproject.com/zh-cn/download)
