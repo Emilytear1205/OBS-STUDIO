@@ -7,7 +7,7 @@
 + Geo news experience
 
 <center class="half">
-    <img src="https://github.com/Emilytear1205/OBS-STUDIO/blob/main/NVIDIA2.jpg" > width="200"<img src="https://github.com/Emilytear1205/OBS-STUDIO/blob/main/OBS2.jpg" width = "200"> 
+    <img src="https://github.com/Emilytear1205/OBS-STUDIO/blob/main/NVIDIA2.jpg" width="200"><img src="https://github.com/Emilytear1205/OBS-STUDIO/blob/main/OBS2.jpg" width = "200"> 
 </center>
 
 GOOGLE搜尋就可以找到免費的載點，windows的用戶如果在安裝方面遇到問題，可以從電腦內建的微軟商店下載看看。
