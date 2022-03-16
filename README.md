@@ -1,15 +1,15 @@
-## 偉大的免費錄影直播軟體-- OBS & Geo news experience
+## 偉大的免費錄影直播軟體-- Obs & Geo news experience
 
 在上一篇的介紹中，我講解了Screen Recorder ，其操作上簡單、容易上手，訊連科技也提供了各種影片教學提供給大眾學習，但它只有30天的免費試用期，試用期一過後得付費使用。
 
 因此，今天我再介紹兩款免費錄影軟體提供給大家 ：
-+ OBS
++ Obs
 + Geo news experience
 
 <div align="center">
 <center class ="half">
-    <img src="https://github.com/Emilytear1205/OBS-STUDIO/blob/main/OBS2.jpg" width = "500"/ height = "600"/>
-    <img src="https://github.com/Emilytear1205/OBS-STUDIO/blob/main/NVIDIA2.jpg" width = "500"/ height = "600"/>
+    <img src="https://github.com/Emilytear1205/OBS-STUDIO/blob/main/OBS2.jpg" width = "500"/ height = "550"/>
+    <img src="https://github.com/Emilytear1205/OBS-STUDIO/blob/main/NVIDIA2.jpg" width = "500"/ height = "550"/>
 </center>
 </div>
 
