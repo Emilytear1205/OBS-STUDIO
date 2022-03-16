@@ -23,6 +23,6 @@ Obs的工具多、用途廣，重要的是他完全免費，如果是有直播�
 
 ## Geo news experience
 
-Geo news experience，也能在官方網站上免費下載，但是很吃電腦效能和硬體設備，先決條件是顯卡必須要是nVIDIA家的產品，其餘規格也符合、也成功下載Geo news experience後，只要按下 「crlt+z」即可將軟體內建的錄影軟體叫出來。
+Geo news experience，也能在官方網站上免費下載，但是很吃電腦效能和硬體設備(像我的電腦就不行用)，先決條件是顯卡必須要是nVIDIA家的產品，其餘規格也符合、也成功下載Geo news experience後，只要按下 「crlt+z」即可將軟體內建的錄影軟體叫出來。
 [官方下載連結](https://www.nvidia.com/en-us/geforce/geforce-experience/download/)
 
