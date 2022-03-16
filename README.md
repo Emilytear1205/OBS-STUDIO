@@ -21,6 +21,7 @@ Obs的工具多、用途廣，重要的是他完全免費，如果是有直播�
 只要GOOGLE搜尋就可以找到免費的載點，假如windows的用戶在下載時遇到問題，可以從電腦內建的微軟商店下載看看。
 [官方下載連結](https://obsproject.com/zh-cn/download)
 
+## Geo news experience
 
 另一種軟體是Geo news experience，這個也是免費下載，但是很吃電腦效能和硬體設備
 
